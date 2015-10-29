@@ -1,10 +1,10 @@
 // ==UserScript==
-// @version     0.13
+// @version     0.14
 // @name        Controle de Frequencia - Somar horas mes
 // @author      marcelotmelo (https://github.com/marcelotmelo)
 // @namespace   http://www.mec.gov.br/
 // @description Calcula o saldo de horas a partir do controle de frequencia do MEC
-// @updateURL   https://github.com/marcelotmelo/tampermonkey/raw/master/intramec-saldo-horas-mes.user.js
+// @updateURL   https://raw.githubusercontent.com/tennaito/scripts-mec/master/intramec-saldo-horas-mes.user.js
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
 // @match       http://10.1.26.151/sistemas/SCF/listaFrequencia.asp?matricula=*&mes=*&ano=*&cpf=*
 // @grant       GM_addStyle
